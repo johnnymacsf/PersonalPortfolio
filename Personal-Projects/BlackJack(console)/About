@@ -1,0 +1,6 @@
+BlackJack game made in Python, played through the console. 
+Planned second iteration of this code using a GUI later 
+Rules:
+Player is dealt two cards, which are printed out to the console, the first card for the dealer is revealed while the second is "face down." 
+The player than has the choice of either hitting in hopes of getting to or closer to 21 (total when adding up the card values) or standing (staying).
+If the player goes over 21, they bust (lose). If not, the dealer has a chance to beat or equal the player's card total. 
