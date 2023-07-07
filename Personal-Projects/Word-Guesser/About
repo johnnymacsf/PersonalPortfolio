@@ -1,0 +1,5 @@
+Word guesser game
+Option to choose between easy, medium, or hard difficulties. 
+Easy difficulty, the user has to guess a 5 letter word, medium a 7 letter word, and hard a ten letter word. 
+For easy you get 10 guesses, medium 13 guesses, hard 15 guesses. 
+Planned for further development as well. 
