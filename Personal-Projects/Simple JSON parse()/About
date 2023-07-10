@@ -1,0 +1,3 @@
+A simple snippet of code using a JSON array of objects of soccer players, each of which has a player name, player nationality, 
+the team that they play for, and the number of goalsa they have scored for their team. 
+I then use the JSON.parse() function which constructs a JavaScript object from the JSON string, and then log it to the console. 
