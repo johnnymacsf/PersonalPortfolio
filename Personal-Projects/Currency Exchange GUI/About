@@ -1,0 +1,4 @@
+A second iteration continuing my currency exchange personal project
+This version features a functional GUI, allowing the user to input in the amount of money they wish to exchange and the foreign currency
+abbreviation they are exchanging to/from. 
+I made this using Java Swing. 
