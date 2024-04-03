@@ -1,0 +1,18 @@
+*This project was the concluding assignment for my CS420- Advanced Programming Languages class. The python script runs the other programs.
+
+*The python program is the "main" program and runs all of the different programs from the script. 
+
+*The C program takes the inputted image file and changes it so that it is a black and white image only. If the pixel value is
+above the threshold value of 170 it turns the pixel to white, else it turns it to black. 
+
+*The Haskell program inverts the pixel colors, so white pixels turn to black pixels and black pixels to white pixels. It does this by 
+doing 255 - x, where x is the color value at that pixel. 
+
+*The Prolog program takes the original image and reverses it (turns it upside down). 
+
+*The first Matlab code takes the inputted image and reshapes it to a one dimensional matrix, that being an array, 
+and writes it to a text file. It will then use this matrix for the other programs. 
+
+*The second Matlab code takes a text file input of the values of the pixels. It then turns it to an integer array, 
+resizes it, and writes the image to a png file with a respective title. The inputted text file is the result of the three other programs 
+and the output is the resultant image.
