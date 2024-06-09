@@ -1,0 +1,8 @@
+Lab Project for my Systems Programming course. 
+SICXE Dissassembler that reads and parses SIC/XE object code and prints out the details of each instruction of the object code. 
+The first part of this program gets each instruction in the text record of the object code, extracting the mnemonic instruction,
+the instruction's format, the operand addressing type, the target address addressing mode, and the object code. 
+The second part of this program first parses the object code file for the header, text, and modification records. 
+It then parses a second file, test.sym, for the symbol and literal tables and getting, if they exist, the symbol label information and
+the constants and literals information. 
+Finally, after parsing all of this information it then outputs the assembly code into the output file, out.lst. 
